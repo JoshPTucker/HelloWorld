@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println( "Hello, World!" ); 
 		System.out.println("Today is June 13, 2016. I am alive!");
-		System.out.println("My name is Josh");
+		System.out.println("My name is Josh!");
 	}
 
 }
